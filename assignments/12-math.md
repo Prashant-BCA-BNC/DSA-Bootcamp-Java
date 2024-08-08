@@ -14,10 +14,10 @@
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 - [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Power of Two](https://leetcode.com/problems/power-of-two/)
+- [Power of Two](https://leetcode.com/problems/power-of-two/) [not solved]
 
 ## Medium
-- [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+- [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) [not solved]
 - [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [Gray Code](https://leetcode.com/problems/gray-code/)
 - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
